@@ -28,6 +28,5 @@ NPCController.cs：演出用人間キャラの処理に関するスクリプト
 
 ResultManager.cs：クリア時、ゲームオーバー時のスコア表示用スクリプト
 ScoreDirector.cs：スコアの
-TimedTrailRenderer.cs
 TitleManager.cs
 WaveController.cs
