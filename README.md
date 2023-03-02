@@ -13,6 +13,7 @@ PlayerStatus.cs：プレイヤーのステータス
 MeleeAssist.cs：近接攻撃の方向補正  
 MeleeWeapon.cs：近接攻撃の辺り判定など  
 MagicTrail.cs：射撃の軌跡エフェクト  
+Recoil.cs：射撃攻撃の反動　https://youtu.be/geieixA4Mqc　こちらの動画を参考にしています
 
 
 **マップ上のアイテム**  
@@ -37,6 +38,9 @@ NPCController.cs：演出用人間キャラの処理に関するスクリプト
 
 **ゲーム全体のルールやスコア管理など**  
 ResultManager.cs：クリア時、ゲームオーバー時のスコア表示用スクリプト  
-ScoreDirector.cs：攻撃ヒット数やキル数の計測と表示UI、それによるボーナス効果処理などのスクリプト
-TitleManager.cs：タイトルシーンのボタン操作全般
-WaveController.cs：ウェーブや敵を生成する数の進行管理
+ScoreDirector.cs：攻撃ヒット数やキル数の計測と表示UI、それによるボーナス効果処理などのスクリプト  
+TitleManager.cs：タイトルシーンのボタン操作全般  
+WaveController.cs：ウェーブや敵を生成する数の進行管理  
+ShakeObjectsByDOTween.cs：UIやカメラを揺らすスクリプト  
+
+SoundManagerは以下の記事からコードをお借りしました。 https://i-school.memo.wiki/d/SoundManager%A4%C7%A5%B2%A1%BC%A5%E0%C6%E2%A4%CE%B2%BB%B8%BB%A4%F2%B4%C9%CD%FD%A4%B9%A4%EB
