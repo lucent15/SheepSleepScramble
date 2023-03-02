@@ -1,5 +1,9 @@
 # SheepSleepScramble
 
+ゲームはこちら：https://unityroom.com/games/sheepsleepscramble
+
+初めて友人と作成したTPSのシステムをベースに少しゲーム制作知識の理解の整理も兼ねて作った短編ゲームです。
+
 **プレイヤーの操作、ステータス、攻撃判定など**  
 PivotControll.cs：カメラの位置  
 Action3dCam.cs：カメラの位置  
