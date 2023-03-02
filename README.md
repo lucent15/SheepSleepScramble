@@ -1,6 +1,6 @@
 # SheepSleepScramble
 
-ゲームはこちら：https://unityroom.com/games/sheepsleepscramble
+[ゲームはこちら](https://unityroom.com/games/sheepsleepscramble)
 
 初めて友人と作成したTPSのシステムをベースに少しゲーム制作知識の理解の整理も兼ねて作った短編ゲームです。
 
@@ -13,7 +13,7 @@ PlayerStatus.cs：プレイヤーのステータス
 MeleeAssist.cs：近接攻撃の方向補正  
 MeleeWeapon.cs：近接攻撃の辺り判定など  
 MagicTrail.cs：射撃の軌跡エフェクト  
-Recoil.cs：射撃攻撃の反動　https://youtu.be/geieixA4Mqc　こちらの動画を参考にしています
+Recoil.cs：射撃攻撃の反動　[こちらの動画を参考にしています](https://youtu.be/geieixA4Mqc)
 
 
 **マップ上のアイテム**  
@@ -43,4 +43,5 @@ TitleManager.cs：タイトルシーンのボタン操作全般
 WaveController.cs：ウェーブや敵を生成する数の進行管理  
 ShakeObjectsByDOTween.cs：UIやカメラを揺らすスクリプト  
 
-SoundManagerは以下の記事からコードをお借りしました。 https://i-school.memo.wiki/d/SoundManager%A4%C7%A5%B2%A1%BC%A5%E0%C6%E2%A4%CE%B2%BB%B8%BB%A4%F2%B4%C9%CD%FD%A4%B9%A4%EB
+SoundManagerは[こちらの記事]( https://i-school.memo.wiki/d/SoundManager%A4%C7%A5%B2%A1%BC%A5%E0%C6%E2%A4%CE%B2%BB%B8%BB%A4%F2%B4%C9%CD%FD%A4%B9%A4%EB
+)からコードをお借りしました。
