@@ -32,6 +32,6 @@ NPCController.cs：演出用人間キャラの処理に関するスクリプト
 
 **ゲーム全体のルールやスコア管理など**  
 ResultManager.cs：クリア時、ゲームオーバー時のスコア表示用スクリプト  
-ScoreDirector.cs：スコアの  
-TitleManager.cs  
-WaveController.cs  
+ScoreDirector.cs：攻撃ヒット数やキル数の計測と表示UI、それによるボーナス効果処理などのスクリプト
+TitleManager.cs：タイトルシーンのボタン操作全般
+WaveController.cs：ウェーブや敵を生成する数の進行管理
